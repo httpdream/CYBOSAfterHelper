@@ -1,0 +1,16 @@
+D:\CYBOSAfterHour\CYBOSAfterHour\bin\Debug\CYBOSAfterHour.exe.config
+D:\CYBOSAfterHour\CYBOSAfterHour\bin\Debug\CYBOSAfterHour.exe
+D:\CYBOSAfterHour\CYBOSAfterHour\bin\Debug\CYBOSAfterHour.pdb
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\CYBOSAfterHour.csprojAssemblyReference.cache
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\Interop.CPSYSDIBLib.dll
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\Interop.CPUTILLib.dll
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\CYBOSAfterHour.csproj.ResolveComReference.cache
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\CYBOSAfterHour.Properties.Resources.resources
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\CYBOSAfterHour.csproj.GenerateResource.cache
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\CYBOSAfterHour.csproj.CoreCompileInputs.cache
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\CYBOSAfterHour.exe
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\CYBOSAfterHour.pdb
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\CYBOSAfterHour.CYBOSAfterHour.resources
+D:\CYBOSAfterHour\CYBOSAfterHour\bin\Debug\Newtonsoft.Json.dll
+D:\CYBOSAfterHour\CYBOSAfterHour\bin\Debug\Newtonsoft.Json.xml
+D:\CYBOSAfterHour\CYBOSAfterHour\obj\Debug\CYBOSAfterHour.csproj.CopyComplete
