@@ -1,5 +1,10 @@
 # CYBOSAfterHelper
 
+## 개발환경
+- Windows 10
+- Visual Studio 2019 C#
+- Net Framework v4.7.2
+
 ## 시간외 단일가 데이터 수집기
 
 대신증권 CYBOS API를 기반으로 한 시간외 단일가 데이터 수집기 입니다.  
