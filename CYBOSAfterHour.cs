@@ -24,6 +24,7 @@ namespace CYBOSAfterHour
             if (this.Cybos.IsConnect == 0)
             {
                 MessageBox.Show("연결실패");
+                Application.Exit();
             }
         }
 
@@ -78,6 +79,11 @@ namespace CYBOSAfterHour
                         {
                             afterHourDatas.Add(new AfterHourData(code, (int)date, (int)open, (int)high, (int)low, (int)close, changed, changedP, (int)volume));
                         }
+                    }
+
+                    if (length < 32)
+                    {
+                        break;
                     }
                 }
 

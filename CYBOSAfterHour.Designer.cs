@@ -243,7 +243,7 @@
             this.Controls.Add(this.stockId);
             this.Controls.Add(this.afterHourGridView);
             this.Name = "CYBOSAfterHour";
-            this.Text = "시간외 데이터 수집기";
+            this.Text = "시간외 데이터 수집기 by httpdream";
             ((System.ComponentModel.ISupportInitialize)(this.afterHourGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
